@@ -8,3 +8,5 @@ components, and tools. Students will get up-to-date coverage of digital fundamen
 basic concepts to programmable logic devices. Laboratory experiments provide hands-on
 experience with the simulator software, actual devices and circuits studied in the
 classroom.
+
+<br />
